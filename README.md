@@ -1,1 +1,1 @@
-these files are for the exercises from ruby.learncodethehardway.org
+these files are for the exercises from http://ruby.learncodethehardway.org/
